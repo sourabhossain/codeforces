@@ -7,7 +7,7 @@ int main()
     int n, k;
 
     scanf("%d%d", &n, &k);
-    vector <int> v(++n);
+    vector<int> v(++n);
 
     v[0] = 1;
 
